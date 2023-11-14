@@ -16,3 +16,4 @@ else:
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
  # code is completed
+# output 
