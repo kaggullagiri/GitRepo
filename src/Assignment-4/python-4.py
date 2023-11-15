@@ -24,9 +24,7 @@ else :
 
 # code is completed 2nd time
 
-#third time openend file and make some changes 
 
-# code is completed 
 
 
 
