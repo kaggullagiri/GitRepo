@@ -21,6 +21,7 @@ else:
     print(num, "is not a prime number")
 # code is completed
 # output
+# succefully push the changes to master branch
 
 #Welcome to the github 
 # print("Welcome to github")
