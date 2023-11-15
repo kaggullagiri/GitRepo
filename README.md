@@ -1,10 +1,10 @@
-# GIT-ASSIGNMENT 
+# GIT-Repo 
 
 ----------------------------------------------------------------    Question 1 : ----------------------------------------------------------------  
 
 process : 
 
-step 1 : I created a GIT-ASSIGNMENT repository by using pycharm
+step 1 : Created a GIT-ASSIGNMENT repository by using pycharm
                            |
 step 2 : In that repository I created Assignment-1 directory and write python code by using pycharm
                            |
