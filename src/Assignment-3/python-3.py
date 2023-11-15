@@ -21,4 +21,3 @@ else:
     print(num, "is not a prime number")
 # code is completed
 # output
-
