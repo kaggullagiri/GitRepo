@@ -21,3 +21,6 @@ else:
     print(num, "is not a prime number")
 # code is completed
 # output
+
+#Welcome to the github 
+# print("Welcome to github")
