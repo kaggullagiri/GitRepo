@@ -6,3 +6,7 @@
  b=3
  c=23
  print(a)
+
+ # After second commit i make some changes to it
+
+ print(b)
